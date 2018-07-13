@@ -1,1 +1,9 @@
-
+spring:
+   application:
+     name: ums
+     
+security:
+  basic:
+    enabled: false
+    
+billingEndpoint: https://billing-nice-topi.apps.cumuluslabs.io/
