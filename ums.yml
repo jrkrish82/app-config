@@ -6,4 +6,8 @@ security:
   basic:
     enabled: false
     
+management:
+  security:
+    enabled: false
+    
 billingEndpoint: https://billing-nice-topi.apps.cumuluslabs.io/
